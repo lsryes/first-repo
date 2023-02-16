@@ -1,3 +1,9 @@
-"# first-repo" 
+# first-repo
 
-###updating
+## updating
+
+# cloning 
+
+# updating from remote
+
+## demo  for conflict updates
